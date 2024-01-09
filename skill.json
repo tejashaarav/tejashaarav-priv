@@ -1,0 +1,155 @@
+{
+    "manifest": {
+        "publishingInformation": {
+            "locales": {
+                "en-US": {
+                    "name": "tide pooler",
+                    "summary": "ChatGPT in Alexa",
+                    "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "en-GB": {
+                    "name": "tide pooler",
+                    "summary": "ChatGPT in Alexa",
+                    "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "en-CA": {
+                    "name": "tide pooler",
+                    "summary": "ChatGPT in Alexa",
+                    "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "en-IN": {
+                    "name": "tide pooler",
+                    "summary": "ChatGPT in Alexa",
+                    "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "en-AU": {
+                    "name": "tide pooler",
+                    "summary": "ChatGPT in Alexa",
+                    "description": "Alexa skill that uses the OpenAI API to generate responses from the ChatGPT model",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "es-ES": {
+                    "name": "tide pooler",
+                    "summary": "ChatGPT en Alexa",
+                    "description": "Skill de Alexa que utiliza la API de OpenAI para generar respuestas desde el modelo ChatGPT",
+                    "examplePhrases": [
+                        "tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "es-MX": {
+                    "name": "tide pooler",
+                    "summary": "ChatGPT en Alexa",
+                    "description": "Skill de Alexa que utiliza la API de OpenAI para generar respuestas desde el modelo ChatGPT",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "es-US": {
+                    "name": "tide pooler",
+                    "summary": "ChatGPT en Alexa",
+                    "description": "Skill de Alexa que utiliza la API de OpenAI para generar respuestas desde el modelo ChatGPT",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "fr-FR": {
+                    "name": "tide pooler",
+                    "summary": "ChatGPT dans Alexa",
+                    "description": "Skill Alexa qui utilise l'API OpenAI pour générer des réponses à partir du modèle ChatGPT",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "fr-CA": {
+                    "name": "chat",
+                    "summary": "ChatGPT dans Alexa",
+                    "description": "Skill Alexa qui utilise l'API OpenAI pour générer des réponses à partir du modèle ChatGPT",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "ja-JP": {
+                    "name": "chat",
+                    "summary": "Alexaの中のChatGPT",
+                    "description": "OpenAI APIを使用してChatGPTモデルからの応答を生成するAlexaスキル",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "de-DE": {
+                    "name": "chat",
+                    "summary": "ChatGPT in Alexa",
+                    "description": "Alexa-Skill, der die OpenAI-API verwendet, um Antworten vom ChatGPT-Modell zu generieren",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "it-IT": {
+                    "name": "chat",
+                    "summary": "ChatGPT in Alexa",
+                    "description": "Skill di Alexa che utilizza l'API di OpenAI per generare risposte dal modello ChatGPT",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "hi-IN": {
+                    "name": "chat",
+                    "summary": "Alexa में ChatGPT",
+                    "description": "Alexa कौशल जो OpenAI API का उपयोग करके ChatGPT मॉडल से प्रतिक्रियाएं उत्पन्न करता है",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                },
+                "pt-BR": {
+                    "name": "chat",
+                    "summary": "ChatGPT na Alexa",
+                    "description": "Skill Alexa que usa a API da OpenAI para gerar respostas a partir do modelo ChatGPT",
+                    "examplePhrases": [
+                        "Alexa tide pooler"
+                    ],
+                    "keywords": []
+                }
+            },
+            "isAvailableWorldwide": true,
+            "testingInstructions": "Sample Testing Instructions",
+            "distributionCountries": []
+        },
+        "apis": {
+            "custom": {
+				"endpoint": {
+					"sourceDir": "lambda",
+					"uri": "ask-custom-helloworld-classes-default"
+				}
+			}
+        },
+        "manifestVersion": "1.0"
+    }
+}
